@@ -1,3 +1,9 @@
+Custom ignores
+Configs/Local_env
+Virtual_env
+Scripts/Test.py
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
