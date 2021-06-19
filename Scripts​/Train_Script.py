@@ -9,9 +9,7 @@ try:
     from sklearn.model_selection import train_test_split
     from sklearn.ensemble import RandomForestRegressor
     import argparse
-    import seaborn as sns
-    import matplotlib.pyplot as plt
-
+    
     run = Run.get_context()
 
     # Set parameter
