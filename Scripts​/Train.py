@@ -4,7 +4,7 @@ from azureml.core.conda_dependencies import CondaDependencies
 from azureml.core import Workspace
 import os
 
-SUBSCRIPTION_ID = "d07d6a2c-86a6-4297-9733-aeb8be2a98bc"
+SUBSCRIPTION_ID = os.getenv('SUBSCRIPTION_ID')
 
 ws = Workspace.get(name="Training_WS",
                    subscription_id=SUBSCRIPTION_ID,
