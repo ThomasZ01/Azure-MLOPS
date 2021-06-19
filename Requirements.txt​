@@ -1,1 +1,6 @@
-
+azureml.core
+pandas
+azure.storage.blob
+joblib
+sklearn
+argparse
