@@ -1,4 +1,4 @@
 # Azure-MLOPS
 MLOPS Project
 
-testas11
+https://github.com/machine-learning-apps/ml-template-azure
