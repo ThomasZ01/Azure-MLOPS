@@ -11,6 +11,8 @@ import itertools
 import argparse
 import os
 
+print(test)
+
 run = Run.get_context()
 
 
