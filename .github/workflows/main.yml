@@ -6,8 +6,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'code\train\train.py'
+    # paths:
+    #   - 'code\train\train.py'
 
 jobs:
   train:
