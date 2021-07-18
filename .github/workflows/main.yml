@@ -7,7 +7,7 @@ on:
     branches:
       - main
     paths:
-      - code\train\train.py
+      - 'code\train\train.py'
 
 jobs:
   train:
